@@ -1,11 +1,18 @@
-### E aí rapaz!
+### E aí rapeiiiize!
 
-
-
-- 🌱 Estou estudando no momentooo = <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+- 👧 Sou Desenvolvedor FullStack!
+- 📚 Estudando Analise e Desenvolvimento de Sistemas na <a href="https://sia.estacio.br/sianet/logon">Estácio</a>.
+- 🌱 Estudando no momento = <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- 👾 Aprendendo novas tecnologias e desenvolvendo projetos pela <a href="https://web.dio.me/home">DIO</a>.
+- 🎓 Formado em Direito com Pós em Direito Civil!
 - 👯 Advogado - Músico - Desenvolvedor !
-- 😄 Pronouns: Tanto faz!
--->
+- 🤔 Procuro desenvolver minhas skills, aprender e compartilhar conhecimento. 
+
+<br>
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/FabricioFagDev">
@@ -26,11 +33,13 @@
   <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> 
- 
+
 </div>
 
    ##
- 
+  
+  
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 <div> 
   
   <a href="https://instagram.com/fauufagundes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
