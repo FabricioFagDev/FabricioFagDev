@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/FabricioFagDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioFagDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"width="60%"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioFagDev&layout=compact&langs_count=7&theme=midnight-purple" width="60%"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FabricioFagDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"width="50%"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioFagDev&layout=compact&langs_count=7&theme=midnight-purple" width="60%"/>
 </div>
   
   <h3> :rocket: &nbsp;Minhas Skills </h3>
